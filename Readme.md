@@ -1,5 +1,5 @@
 To run the code
 
 ```
-python3 code.py "./csvs/Sudoku1.csv"
+python3 sudoku.py "./csvs/Sudoku1.csv"
 ```
